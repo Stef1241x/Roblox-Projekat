@@ -1,5 +1,5 @@
 # Work as an airport passport checker
-Ovo je moj prvi ozbiljan Roblox Studio projekat. Igra je idalje u aktivnom razvoju.
+Ovo je moj prvi ozbiljan Roblox Studio projekat. Igra je idalje u aktivnom razvoju. Kopija igrice se može naći kod "Releases".
 
 # Kako se igra 🎮
 Glavna mehanika igrice je to da igrač:
